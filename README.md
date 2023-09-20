@@ -7,13 +7,13 @@ OnyxZ7 = {
 }
 ```
 
+I only use github to follow intersting project that are on it, but my main code place is [GitLab](https://gitlab.com/onyxz7)
+
 My name is Noé Pételle, I am a 17 years old student living in Quebec City, and studying at Cégep de Sainte-Foy in the programme [Techniques de l'informatique](https://www.csfoy.ca/programmes/tous-les-programmes/programmes-techniques/techniques-de-linformatique-programmation-web-mobile-et-jeux-video/).
 
 My biggest project is currently [Ansible Homelab](https://gitlab.com/onyxz7/ansible-homelab), an Ansible playbook to deploy my homelab. Now that I am getting some additional hardware, and learning new technologies, I am expecting [Infra](https://gitlab.com/onyxz7/infra) to surpass it.
 
 While my primary objective is to create useful tools, I have a strong passion for IT and thoroughly enjoy automating tasks whenever possible.
-
-I only use github to follow intersting project that are on it, but my main code place is [GitLab](https://gitlab.com/onyxz7)
 
 ---
 
