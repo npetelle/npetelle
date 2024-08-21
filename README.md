@@ -1,5 +1,5 @@
 ```py
-OnyxZ7 = {
+npetelle = {
     "name": "Noé",
     "age": "17",
     "country": "Quebec"
