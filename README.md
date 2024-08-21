@@ -15,6 +15,6 @@ While my primary objective is to create useful tools, I have a strong passion fo
 
 ---
 
-Find me over the internet : [npetelle](https://links.petelle.net)
+Find me over the internet : [npetelle](https://bento.me/npetelle)
 
 ![achievement](https://gitlab.com/npetelle/npetelle/-/raw/main/img/minecraft-readme.png)
