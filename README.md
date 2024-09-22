@@ -5,7 +5,7 @@
 ```cpp
 struct NPetelle {
     const char* name = "Noé Pételle";
-    const char* age = "18";
+    const int age = 18;
     const char* location = "Quebec City";
     const char* status = "student";
 };
